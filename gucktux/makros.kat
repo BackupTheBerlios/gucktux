@@ -1,0 +1,16 @@
+# *** Gtk-Bouquet-Editor ***
+# this is a Telnet-Makrofile
+# dies ist eine Telnet-Makrodatei.
+# .kat (=KanalArbeiterTeam)
+
+<sag was!>
+"Ich bin Deine DBox und ich kenne Deine IP."
+
+<Bouquets reload>
+pzapit -c
+
+<close telnet>
+exit
+
+<close telnet>
+logout

@@ -1,0 +1,17 @@
+static char *hidden0_xpm[]={
+"15 11 4 1",
+"  c None",
+"x c #004000",
+"- c #ffffff",
+"o c #000050",
+"  oooo   oooo  ",
+" o    o o    o ",
+"   xx     xx   ",
+"  x--x   x--x  ",
+" x----x x----x ",
+" x----x x----x ",
+" x----x x----x ",
+" x-oo-x x-oo-x ",
+" x-oo-x x-oo-x ",
+"  x--x   x--x  ",
+"   xx     xx   "};

@@ -1,0 +1,21 @@
+static char *locked1_xpm[]={
+"15 14 4 1",
+"  c None",
+"x c #004000",
+"b c #707070",
+"o c #000050",
+"    xbbbbbx    ",
+"   xbxxxxxbx   ",
+"   xb     bx   ",
+
+"  xb       bx  ",
+"  xb       bx  ",
+"  xb       bx  ",
+"  xxxxxxxxxxx  ",
+"  xbbboobbbbx  ",
+"  xbboooobbbx  ",
+"  xbbboobbbbx  ",
+"  xbbboobbbbx  ",
+"  xbbboobbbbx  ",
+"  xbbboobbbbx  ",
+"  xxxxxxxxxxx  "};
